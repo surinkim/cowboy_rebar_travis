@@ -1,0 +1,6 @@
+-sname cowboy_rebar_travis
+
+-setcookie cowboy_rebar_travis_cookie
+
++K true
++A30
